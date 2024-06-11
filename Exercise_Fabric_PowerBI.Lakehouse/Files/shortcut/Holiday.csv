@@ -1,0 +1,276 @@
+countryOrRegion,holidayName,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+Norway,Søndag,Søndag,"",NO,2021-01-03T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-01-03T00:00:00.000Z
+New Zealand,Day after New Year's Day (Observed),Day after New Year's Day,"",NZ,2021-01-04T00:00:00.000Z
+Scotland,New Year Holiday (Observed),New Year Holiday,"","",2021-01-04T00:00:00.000Z
+United Kingdom,New Year Holiday [Scotland] (Observed),New Year Holiday,true,GB,2021-01-04T00:00:00.000Z
+Austria,Heilige Drei Könige,Heilige Drei Könige,"",AT,2021-01-06T00:00:00.000Z
+Croatia,Sveta tri kralja,Sveta tri kralja,"",HR,2021-01-06T00:00:00.000Z
+Finland,Loppiainen,Loppiainen,"",FI,2021-01-06T00:00:00.000Z
+Italy,Epifania del Signore,Epifania del Signore,"",IT,2021-01-06T00:00:00.000Z
+Poland,Święto Trzech Króli,Święto Trzech Króli,"",PL,2021-01-06T00:00:00.000Z
+Spain,Epifanía del Señor,Epifanía del Señor,"",ES,2021-01-06T00:00:00.000Z
+Sweden,Trettondedag jul,Trettondedag jul,"",SE,2021-01-06T00:00:00.000Z
+Belarus,Рождество Христово (православное Рождество),Рождество Христово (православное Рождество),"",BY,2021-01-07T00:00:00.000Z
+Ukraine,Різдво Христове (православне),Різдво Христове (православне),"",UA,2021-01-07T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-01-10T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-01-10T00:00:00.000Z
+Colombia,Día de los Reyes Magos [Epiphany](Observed),Día de los Reyes Magos [Epiphany],"",CO,2021-01-11T00:00:00.000Z
+Japan,成人の日,成人の日,"",JP,2021-01-11T00:00:00.000Z
+India,Makar Sankranti / Pongal,Makar Sankranti / Pongal,false,IN,2021-01-14T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-01-17T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-01-17T00:00:00.000Z
+United States,Martin Luther King Jr. Day,Martin Luther King Jr. Day,"",US,2021-01-18T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-01-24T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-01-24T00:00:00.000Z
+Australia,Australia Day,Australia Day,"",AU,2021-01-26T00:00:00.000Z
+India,Republic Day,Republic Day,true,IN,2021-01-26T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-01-31T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-01-31T00:00:00.000Z
+Mexico,Día de la Constitución [Constitution Day] (Observed),Día de la Constitución [Constitution Day],"",MX,2021-02-01T00:00:00.000Z
+Mexico,Día de la Constitución [Constitution Day],Día de la Constitución [Constitution Day],"",MX,2021-02-05T00:00:00.000Z
+New Zealand,Waitangi Day,Waitangi Day,"",NZ,2021-02-06T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-02-07T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-02-07T00:00:00.000Z
+New Zealand,Waitangi Day (Observed),Waitangi Day,"",NZ,2021-02-08T00:00:00.000Z
+Slovenia,Prešernov dan,Prešernov dan,"",SI,2021-02-08T00:00:00.000Z
+Japan,建国記念の日,建国記念の日,"",JP,2021-02-11T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-02-14T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-02-14T00:00:00.000Z
+Argentina,Día de Carnaval [Carnival's Day],Día de Carnaval [Carnival's Day],"",AR,2021-02-15T00:00:00.000Z
+Canada,Family Day,Family Day,"",CA,2021-02-15T00:00:00.000Z
+United States,Washington's Birthday,Washington's Birthday,true,US,2021-02-15T00:00:00.000Z
+Argentina,Día de Carnaval [Carnival's Day],Día de Carnaval [Carnival's Day],"",AR,2021-02-16T00:00:00.000Z
+Brazil,Carnaval,Carnaval,"",BR,2021-02-16T00:00:00.000Z
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),"",BR,2021-02-17T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-02-21T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-02-21T00:00:00.000Z
+Japan,天皇誕生日,天皇誕生日,"",JP,2021-02-23T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-02-28T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-02-28T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-03-07T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-03-07T00:00:00.000Z
+Belarus,День женщин,День женщин,"",BY,2021-03-08T00:00:00.000Z
+Ukraine,Міжнародний жіночий день,Міжнародний жіночий день,"",UA,2021-03-08T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-03-14T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-03-14T00:00:00.000Z
+Hungary,Nemzeti ünnep,Nemzeti ünnep,"",HU,2021-03-15T00:00:00.000Z
+Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday] (Observed),Natalicio de Benito Juárez [Benito Juárez's birthday],"",MX,2021-03-15T00:00:00.000Z
+Ireland,St. Patrick's Day,St. Patrick's Day,"",IE,2021-03-17T00:00:00.000Z
+Northern Ireland,St. Patrick's Day,St. Patrick's Day,"","",2021-03-17T00:00:00.000Z
+United Kingdom,St. Patrick's Day [Northern Ireland],St. Patrick's Day,false,GB,2021-03-17T00:00:00.000Z
+Japan,春分の日,春分の日,"",JP,2021-03-20T00:00:00.000Z
+Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],Natalicio de Benito Juárez [Benito Juárez's birthday],"",MX,2021-03-21T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-03-21T00:00:00.000Z
+South Africa,Human Rights Day,Human Rights Day,"",ZA,2021-03-21T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-03-21T00:00:00.000Z
+Colombia,Día de San José [Saint Joseph's Day](Observed),Día de San José [Saint Joseph's Day],"",CO,2021-03-22T00:00:00.000Z
+South Africa,Human Rights Day (Observed),Human Rights Day,"",ZA,2021-03-22T00:00:00.000Z
+Argentina,Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],"",AR,2021-03-24T00:00:00.000Z
+Denmark,Palmesøndag,Palmesøndag,"",DK,2021-03-28T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-03-28T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-03-28T00:00:00.000Z
+Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],"",AR,2021-04-01T00:00:00.000Z
+Colombia,Jueves Santo [Maundy Thursday],Jueves Santo [Maundy Thursday],"",CO,2021-04-01T00:00:00.000Z
+Denmark,Skærtorsdag,Skærtorsdag,"",DK,2021-04-01T00:00:00.000Z
+Norway,Skjærtorsdag,Skjærtorsdag,"",NO,2021-04-01T00:00:00.000Z
+Argentina,"Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War], Semana Santa (Viernes Santo)  [Holy day (Holy Friday)]","Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War], Semana Santa (Viernes Santo)  [Holy day (Holy Friday)]","",AR,2021-04-02T00:00:00.000Z
+Australia,Good Friday,Good Friday,"",AU,2021-04-02T00:00:00.000Z
+Brazil,Sexta-feira Santa,Sexta-feira Santa,"",BR,2021-04-02T00:00:00.000Z
+Canada,Good Friday,Good Friday,"",CA,2021-04-02T00:00:00.000Z
+Colombia,Viernes Santo [Good Friday],Viernes Santo [Good Friday],"",CO,2021-04-02T00:00:00.000Z
+Czech,Velký pátek,Velký pátek,"",CZ,2021-04-02T00:00:00.000Z
+Denmark,Langfredag,Langfredag,"",DK,2021-04-02T00:00:00.000Z
+England,Good Friday,Good Friday,"","",2021-04-02T00:00:00.000Z
+Finland,Pitkäperjantai,Pitkäperjantai,"",FI,2021-04-02T00:00:00.000Z
+Germany,Karfreitag,Karfreitag,"",DE,2021-04-02T00:00:00.000Z
+Hungary,Nagypéntek,Nagypéntek,"",HU,2021-04-02T00:00:00.000Z
+Isle of Man,Good Friday,Good Friday,"",IM,2021-04-02T00:00:00.000Z
+Netherlands,Goede Vrijdag,Goede Vrijdag,"",NL,2021-04-02T00:00:00.000Z
+New Zealand,Good Friday,Good Friday,"",NZ,2021-04-02T00:00:00.000Z
+Northern Ireland,Good Friday,Good Friday,"","",2021-04-02T00:00:00.000Z
+Norway,Langfredag,Langfredag,"",NO,2021-04-02T00:00:00.000Z
+Portugal,Sexta-feira Santa,Sexta-feira Santa,"",PT,2021-04-02T00:00:00.000Z
+Scotland,Good Friday,Good Friday,"","",2021-04-02T00:00:00.000Z
+South Africa,Good Friday,Good Friday,"",ZA,2021-04-02T00:00:00.000Z
+Sweden,Långfredagen,Långfredagen,"",SE,2021-04-02T00:00:00.000Z
+Switzerland,Karfreitag,Karfreitag,"",CH,2021-04-02T00:00:00.000Z
+United Kingdom,Good Friday,Good Friday,true,GB,2021-04-02T00:00:00.000Z
+Wales,Good Friday,Good Friday,"","",2021-04-02T00:00:00.000Z
+Argentina,Día de Pascuas [Easter Day],Día de Pascuas [Easter Day],"",AR,2021-04-04T00:00:00.000Z
+Belgium,Pasen,Pasen,"",BE,2021-04-04T00:00:00.000Z
+Brazil,Páscoa,Páscoa,"",BR,2021-04-04T00:00:00.000Z
+Croatia,Uskrs,Uskrs,"",HR,2021-04-04T00:00:00.000Z
+Denmark,Påskedag,Påskedag,"",DK,2021-04-04T00:00:00.000Z
+Finland,Pääsiäispäivä,Pääsiäispäivä,"",FI,2021-04-04T00:00:00.000Z
+Hungary,Húsvét,Húsvét,"",HU,2021-04-04T00:00:00.000Z
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,"",IT,2021-04-04T00:00:00.000Z
+Netherlands,Eerste paasdag,Eerste paasdag,"",NL,2021-04-04T00:00:00.000Z
+Norway,"Første påskedag, Søndag","Første påskedag, Søndag","",NO,2021-04-04T00:00:00.000Z
+Poland,Niedziela Wielkanocna,Niedziela Wielkanocna,"",PL,2021-04-04T00:00:00.000Z
+Portugal,Páscoa,Páscoa,"",PT,2021-04-04T00:00:00.000Z
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag","",SE,2021-04-04T00:00:00.000Z
+Switzerland,Ostern,Ostern,"",CH,2021-04-04T00:00:00.000Z
+Australia,Easter Monday,Easter Monday,"",AU,2021-04-05T00:00:00.000Z
+Austria,Ostermontag,Ostermontag,"",AT,2021-04-05T00:00:00.000Z
+Belgium,Paasmaandag,Paasmaandag,"",BE,2021-04-05T00:00:00.000Z
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,"",HR,2021-04-05T00:00:00.000Z
+Czech,Velikonoční pondělí,Velikonoční pondělí,"",CZ,2021-04-05T00:00:00.000Z
+Denmark,Anden påskedag,Anden påskedag,"",DK,2021-04-05T00:00:00.000Z
+England,Easter Monday,Easter Monday,"","",2021-04-05T00:00:00.000Z
+Finland,2. pääsiäispäivä,2. pääsiäispäivä,"",FI,2021-04-05T00:00:00.000Z
+France,Lundi de Pâques,Lundi de Pâques,"",FR,2021-04-05T00:00:00.000Z
+Germany,Ostermontag,Ostermontag,"",DE,2021-04-05T00:00:00.000Z
+Hungary,Húsvét Hétfő,Húsvét Hétfő,"",HU,2021-04-05T00:00:00.000Z
+Ireland,Easter Monday,Easter Monday,"",IE,2021-04-05T00:00:00.000Z
+Isle of Man,Easter Monday,Easter Monday,"",IM,2021-04-05T00:00:00.000Z
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,"",IT,2021-04-05T00:00:00.000Z
+Netherlands,Tweede paasdag,Tweede paasdag,"",NL,2021-04-05T00:00:00.000Z
+New Zealand,Easter Monday,Easter Monday,"",NZ,2021-04-05T00:00:00.000Z
+Northern Ireland,Easter Monday,Easter Monday,"","",2021-04-05T00:00:00.000Z
+Norway,Andre påskedag,Andre påskedag,"",NO,2021-04-05T00:00:00.000Z
+Poland,Poniedziałek Wielkanocny,Poniedziałek Wielkanocny,"",PL,2021-04-05T00:00:00.000Z
+Slovenia,Velikonočni ponedeljek,Velikonočni ponedeljek,"",SI,2021-04-05T00:00:00.000Z
+South Africa,Family Day,Family Day,"",ZA,2021-04-05T00:00:00.000Z
+Sweden,Annandag påsk,Annandag påsk,"",SE,2021-04-05T00:00:00.000Z
+Switzerland,Ostermontag,Ostermontag,"",CH,2021-04-05T00:00:00.000Z
+United Kingdom,"Easter Monday [England, Wales, Northern Ireland]",Easter Monday,true,GB,2021-04-05T00:00:00.000Z
+Wales,Easter Monday,Easter Monday,"","",2021-04-05T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-04-11T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-04-11T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-04-18T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-04-18T00:00:00.000Z
+Brazil,Tiradentes,Tiradentes,"",BR,2021-04-21T00:00:00.000Z
+Australia,Anzac Day,Anzac Day,"",AU,2021-04-25T00:00:00.000Z
+Italy,Festa della Liberazione,Festa della Liberazione,"",IT,2021-04-25T00:00:00.000Z
+New Zealand,Anzac Day,Anzac Day,"",NZ,2021-04-25T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-04-25T00:00:00.000Z
+Portugal,Dia da Liberdade,Dia da Liberdade,"",PT,2021-04-25T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-04-25T00:00:00.000Z
+New Zealand,Anzac Day (Observed),Anzac Day,"",NZ,2021-04-26T00:00:00.000Z
+Netherlands,Koningsdag,Koningsdag,"",NL,2021-04-27T00:00:00.000Z
+Slovenia,dan upora proti okupatorju,dan upora proti okupatorju,"",SI,2021-04-27T00:00:00.000Z
+South Africa,Freedom Day,Freedom Day,"",ZA,2021-04-27T00:00:00.000Z
+Japan,昭和の日,昭和の日,"",JP,2021-04-29T00:00:00.000Z
+Denmark,Store bededag,Store bededag,"",DK,2021-04-30T00:00:00.000Z
+Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday] (Observed),Natalicio de Benito Juárez [Benito Juárez's birthday],"",MX,2021-04-30T00:00:00.000Z
+Argentina,Día del Trabajo [Labour Day],Día del Trabajo [Labour Day],"",AR,2021-05-01T00:00:00.000Z
+Austria,Staatsfeiertag,Staatsfeiertag,"",AT,2021-05-01T00:00:00.000Z
+Belarus,Праздник труда,Праздник труда,"",BY,2021-05-01T00:00:00.000Z
+Belgium,Dag van de Arbeid,Dag van de Arbeid,"",BE,2021-05-01T00:00:00.000Z
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,"",BR,2021-05-01T00:00:00.000Z
+Colombia,Día del Trabajo [Labour Day],Día del Trabajo [Labour Day],"",CO,2021-05-01T00:00:00.000Z
+Croatia,Međunarodni praznik rada,Međunarodni praznik rada,"",HR,2021-05-01T00:00:00.000Z
+Czech,Svátek práce,Svátek práce,"",CZ,2021-05-01T00:00:00.000Z
+Finland,Vappu,Vappu,"",FI,2021-05-01T00:00:00.000Z
+France,Fête du Travail,Fête du Travail,"",FR,2021-05-01T00:00:00.000Z
+Germany,Erster Mai,Erster Mai,"",DE,2021-05-01T00:00:00.000Z
+Hungary,A Munka ünnepe,A Munka ünnepe,"",HU,2021-05-01T00:00:00.000Z
+India,Labour Day,Labour Day,false,IN,2021-05-01T00:00:00.000Z
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,"",IT,2021-05-01T00:00:00.000Z
+Mexico,Día del Trabajo [Labour Day],Día del Trabajo [Labour Day],"",MX,2021-05-01T00:00:00.000Z
+Norway,Arbeidernes dag,Arbeidernes dag,"",NO,2021-05-01T00:00:00.000Z
+Poland,Święto Państwowe,Święto Państwowe,"",PL,2021-05-01T00:00:00.000Z
+Portugal,Dia do Trabalhador,Dia do Trabalhador,"",PT,2021-05-01T00:00:00.000Z
+Slovenia,praznik dela,praznik dela,"",SI,2021-05-01T00:00:00.000Z
+South Africa,Workers' Day,Workers' Day,"",ZA,2021-05-01T00:00:00.000Z
+Spain,Día del Trabajador,Día del Trabajador,"",ES,2021-05-01T00:00:00.000Z
+Sweden,Första maj,Första maj,"",SE,2021-05-01T00:00:00.000Z
+Ukraine,День праці,День праці,"",UA,2021-05-01T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-05-02T00:00:00.000Z
+Slovenia,praznik dela,praznik dela,"",SI,2021-05-02T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-05-02T00:00:00.000Z
+Ukraine,Пасха (Великдень),Пасха (Великдень),"",UA,2021-05-02T00:00:00.000Z
+England,May Day,May Day,"","",2021-05-03T00:00:00.000Z
+Ireland,May Day,May Day,"",IE,2021-05-03T00:00:00.000Z
+Isle of Man,May Day,May Day,"",IM,2021-05-03T00:00:00.000Z
+Japan,憲法記念日,憲法記念日,"",JP,2021-05-03T00:00:00.000Z
+Northern Ireland,May Day,May Day,"","",2021-05-03T00:00:00.000Z
+Poland,Święto Narodowe Trzeciego Maja,Święto Narodowe Trzeciego Maja,"",PL,2021-05-03T00:00:00.000Z
+Scotland,May Day,May Day,"","",2021-05-03T00:00:00.000Z
+United Kingdom,May Day,May Day,true,GB,2021-05-03T00:00:00.000Z
+Wales,May Day,May Day,"","",2021-05-03T00:00:00.000Z
+Japan,みどりの日,みどりの日,"",JP,2021-05-04T00:00:00.000Z
+Japan,こどもの日,こどもの日,"",JP,2021-05-05T00:00:00.000Z
+Czech,Den vítězství,Den vítězství,"",CZ,2021-05-08T00:00:00.000Z
+France,Armistice 1945,Armistice 1945,"",FR,2021-05-08T00:00:00.000Z
+Belarus,День Победы,День Победы,"",BY,2021-05-09T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-05-09T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-05-09T00:00:00.000Z
+Ukraine,День перемоги,День перемоги,"",UA,2021-05-09T00:00:00.000Z
+Belarus,Радуница,Радуница,"",BY,2021-05-11T00:00:00.000Z
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,"",AT,2021-05-13T00:00:00.000Z
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,"",BE,2021-05-13T00:00:00.000Z
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,"",DK,2021-05-13T00:00:00.000Z
+Finland,Helatorstai,Helatorstai,"",FI,2021-05-13T00:00:00.000Z
+France,Ascension,Ascension,"",FR,2021-05-13T00:00:00.000Z
+Germany,Christi Himmelfahrt,Christi Himmelfahrt,"",DE,2021-05-13T00:00:00.000Z
+Netherlands,Hemelvaart,Hemelvaart,"",NL,2021-05-13T00:00:00.000Z
+Norway,Kristi himmelfartsdag,Kristi himmelfartsdag,"",NO,2021-05-13T00:00:00.000Z
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,"",SE,2021-05-13T00:00:00.000Z
+Switzerland,Auffahrt,Auffahrt,"",CH,2021-05-13T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-05-16T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-05-16T00:00:00.000Z
+Colombia,Ascensión del señor [Ascension of Jesus](Observed),Ascensión del señor [Ascension of Jesus],"",CO,2021-05-17T00:00:00.000Z
+Norway,Grunnlovsdag,Grunnlovsdag,"",NO,2021-05-17T00:00:00.000Z
+Belgium,Pinksteren,Pinksteren,"",BE,2021-05-23T00:00:00.000Z
+Denmark,Pinsedag,Pinsedag,"",DK,2021-05-23T00:00:00.000Z
+Finland,Helluntaipäivä,Helluntaipäivä,"",FI,2021-05-23T00:00:00.000Z
+Hungary,Pünkösd,Pünkösd,"",HU,2021-05-23T00:00:00.000Z
+Netherlands,Eerste Pinksterdag,Eerste Pinksterdag,"",NL,2021-05-23T00:00:00.000Z
+Norway,"Første pinsedag, Søndag","Første pinsedag, Søndag","",NO,2021-05-23T00:00:00.000Z
+Poland,Zielone Świątki,Zielone Świątki,"",PL,2021-05-23T00:00:00.000Z
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag","",SE,2021-05-23T00:00:00.000Z
+Switzerland,Pfingsten,Pfingsten,"",CH,2021-05-23T00:00:00.000Z
+Austria,Pfingstmontag,Pfingstmontag,"",AT,2021-05-24T00:00:00.000Z
+Belgium,Pinkstermaandag,Pinkstermaandag,"",BE,2021-05-24T00:00:00.000Z
+Canada,Victoria Day,Victoria Day,"",CA,2021-05-24T00:00:00.000Z
+Denmark,Anden pinsedag,Anden pinsedag,"",DK,2021-05-24T00:00:00.000Z
+France,Lundi de Pentecôte,Lundi de Pentecôte,"",FR,2021-05-24T00:00:00.000Z
+Germany,Pfingstmontag,Pfingstmontag,"",DE,2021-05-24T00:00:00.000Z
+Hungary,Pünkösdhétfő,Pünkösdhétfő,"",HU,2021-05-24T00:00:00.000Z
+Netherlands,Tweede Pinksterdag,Tweede Pinksterdag,"",NL,2021-05-24T00:00:00.000Z
+Norway,Andre pinsedag,Andre pinsedag,"",NO,2021-05-24T00:00:00.000Z
+Switzerland,Pfingstmontag,Pfingstmontag,"",CH,2021-05-24T00:00:00.000Z
+Argentina,Día de la Revolucion de Mayo [May Revolution Day],Día de la Revolucion de Mayo [May Revolution Day],"",AR,2021-05-25T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-05-30T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-05-30T00:00:00.000Z
+England,Spring Bank Holiday,Spring Bank Holiday,"","",2021-05-31T00:00:00.000Z
+Isle of Man,Spring Bank Holiday,Spring Bank Holiday,"",IM,2021-05-31T00:00:00.000Z
+Northern Ireland,Spring Bank Holiday,Spring Bank Holiday,"","",2021-05-31T00:00:00.000Z
+Scotland,Spring Bank Holiday,Spring Bank Holiday,"","",2021-05-31T00:00:00.000Z
+United Kingdom,Spring Bank Holiday,Spring Bank Holiday,true,GB,2021-05-31T00:00:00.000Z
+United States,Memorial Day,Memorial Day,true,US,2021-05-31T00:00:00.000Z
+Wales,Spring Bank Holiday,Spring Bank Holiday,"","",2021-05-31T00:00:00.000Z
+Italy,Festa della Repubblica,Festa della Repubblica,"",IT,2021-06-02T00:00:00.000Z
+Austria,Fronleichnam,Fronleichnam,"",AT,2021-06-03T00:00:00.000Z
+Brazil,Corpus Christi,Corpus Christi,"",BR,2021-06-03T00:00:00.000Z
+Croatia,Tijelovo,Tijelovo,"",HR,2021-06-03T00:00:00.000Z
+Poland,Dzień Bożego Ciała,Dzień Bożego Ciała,"",PL,2021-06-03T00:00:00.000Z
+Portugal,Corpo de Deus,Corpo de Deus,"",PT,2021-06-03T00:00:00.000Z
+Isle of Man,TT Bank Holiday,TT Bank Holiday,"",IM,2021-06-04T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-06-06T00:00:00.000Z
+Sweden,"Sveriges nationaldag, Söndag","Sveriges nationaldag, Söndag","",SE,2021-06-06T00:00:00.000Z
+Colombia,Corpus Christi [Corpus Christi](Observed),Corpus Christi [Corpus Christi],"",CO,2021-06-07T00:00:00.000Z
+Ireland,June Bank Holiday,June Bank Holiday,"",IE,2021-06-07T00:00:00.000Z
+New Zealand,Queen's Birthday,Queen's Birthday,"",NZ,2021-06-07T00:00:00.000Z
+Portugal,Dia de Portugal,Dia de Portugal,"",PT,2021-06-10T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-06-13T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-06-13T00:00:00.000Z
+Colombia,Sagrado Corazón [Sacred Heart](Observed),Sagrado Corazón [Sacred Heart],"",CO,2021-06-14T00:00:00.000Z
+South Africa,Youth Day,Youth Day,"",ZA,2021-06-16T00:00:00.000Z
+Argentina,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],"",AR,2021-06-17T00:00:00.000Z
+Argentina,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],"",AR,2021-06-20T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-06-20T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-06-20T00:00:00.000Z
+Ukraine,Трійця,Трійця,"",UA,2021-06-20T00:00:00.000Z
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,"",HR,2021-06-22T00:00:00.000Z
+Finland,Juhannusaatto,Juhannusaatto,"",FI,2021-06-25T00:00:00.000Z
+Slovenia,dan državnosti,dan državnosti,"",SI,2021-06-25T00:00:00.000Z
+Sweden,Midsommarafton,Midsommarafton,"",SE,2021-06-25T00:00:00.000Z
+Finland,Juhannuspäivä,Juhannuspäivä,"",FI,2021-06-26T00:00:00.000Z
+Sweden,Midsommardagen,Midsommardagen,"",SE,2021-06-26T00:00:00.000Z
+Norway,Søndag,Søndag,"",NO,2021-06-27T00:00:00.000Z
+Sweden,Söndag,Söndag,"",SE,2021-06-27T00:00:00.000Z
+Ukraine,День Конституції України,День Конституції України,"",UA,2021-06-28T00:00:00.000Z
+Canada,Canada Day,Canada Day,"",CA,2021-07-01T00:00:00.000Z

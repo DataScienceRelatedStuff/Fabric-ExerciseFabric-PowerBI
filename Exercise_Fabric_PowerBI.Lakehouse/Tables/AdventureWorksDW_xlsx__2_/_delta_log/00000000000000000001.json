@@ -1,0 +1,2 @@
+{"commitInfo":{"operation":"Update","engineInfo":"Mashup Engine/2.128.1031.0","additionalCommitInfo":null}}
+{"add":{"path":"750d6df4c7844e408f6db9d123eded89.parquet","partitionValues":{},"size":1574,"modificationTime":1714035915563,"dataChange":true,"stats":"{\"numRecords\":13,\"minValues\":{\"Name\":\"Customer\",\"Item\":\"Customer\",\"Kind\":\"DefinedName\",\"Hidden\":false},\"maxValues\":{\"Name\":\"Table4\",\"Item\":\"Table4\",\"Kind\":\"Table\",\"Hidden\":true},\"nullCount\":{\"Name\":0,\"Item\":0,\"Kind\":0,\"Hidden\":0}}","tags":{"VORDER":"true"}}}
